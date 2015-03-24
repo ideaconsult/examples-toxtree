@@ -1,9 +1,8 @@
 examples-toxtree
 ================
 
-Coming soon!
-----------------
+- The code shows how to retrieve implementation details (e.g. SMARTS) from toxtree rule classes
 
-How to run [Toxtree](http://toxtree.sourceforge.net/ "Toxtree - Toxic Hazard Estimation by decision tree approach") predictions from (Java) code.
+- For examples how to run [Toxtree](http://toxtree.sourceforge.net) predictions from (Java) code see the [FAQ](http://toxtree.sourceforge.net/faq.html#K2).
 
 
